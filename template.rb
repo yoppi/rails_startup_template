@@ -15,6 +15,8 @@ gem "haml-rails" if yes?("Use HAML instead of ERB?")
 gem "simple_form"
 # To generate UUIDs, useful for various things
 gem "uuidtools"
+# Powerful and easy customizable Pager
+gem "kaminari"
 
 gem_group :development do
   # Rspec for tests (https://github.com/rspec/rspec-rails)

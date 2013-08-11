@@ -16,6 +16,7 @@ rails new [app_name] -m rails_startup_template/template.rb
   - [bourbon](http://bourbon.io/): Bourbon provides useful SASS mixins for cross-browser compatibility.
   - (Optional) [haml-rails](http://haml.info): HAML is a beautiful templating language. I prefer it over ERB. 
   - [simple_form](https://github.com/plataformatec/simple_form): SimpleForm makes it easy to build complex form using simple markup.
+  - [kaminari](https://github.com/asakusa/kaminari): Powerful and easy customizable pager.
   - uuidtools: To generate UUIDs, which is useful for various things.
   - [rspec-rails](https://github.com/rspec/rspec-rails): Rspec is a testing tool for test-driven and behavior-driven development. It makes writing specs more enjoyable.
   - [guard-rspec](https://github.com/guard/guard-rspec): Guard for automatically launching your specs when files are modified.
